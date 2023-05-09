@@ -18,10 +18,23 @@ To better understand how effective the campaigns are at producing conversions, I
 To determine whether the data for "Clicks" and "Conversions" falls under a normal distribution curve, I used Excel spreadsheet to create two histograms:
 - one for the Clicks
 - one for the Conversions
+
+
 And also determined the variable types I'm working with.
 
 ## Testing My Hypothesis 
 I formulated a hypothesis to answer the evaluation question:
+
+
 "Is there a difference between the number of conversions on the Facebook platform versus the AdWords platform?"
 
+I calculated the mean values for the Facebook Ad Conversions and AdWords Conversions data.
+
+Next, I determined whether this overall difference is a statistically significant difference 
+
+Next, with the p-value got,I determined whether to accept or reject the **null hypothesis** or the **alternative hypothesis**.
+
+
+## Choosing A Model 
+I decided to use a Simple Linear Regression model based on purpose and variable requirements and also checked that the variables meet the **normality assumption**.
 
